@@ -54,9 +54,9 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorown = '94717024813' //Nomor Owner
+global.namebot = 'ᴘᴏᴅᴅᴀ-ᴍᴅ' //Nama Bot
+global.nameown = 'Nisal Pabasara' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +65,11 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['94717024813', 'ɴɪsᴀʟ ᴘᴀʙᴀsᴀʀᴀ', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['94717024813','68673045381','94707024813'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
